@@ -1,0 +1,1 @@
+A Django-based web application that leverages AJAX for seamless, asynchronous interactions. Forms and data are submitted and updated dynamically without full-page reloads, providing a smoother user experience.
